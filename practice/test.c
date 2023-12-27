@@ -14,9 +14,5 @@ int main()
     {
         printf("no one\n");
     }
-//   int a,b,c=10;
-//   a=c+(c==9);
-//   b=c+(c==10);
-//   printf("a=%d\nb=%d",a,b);
   return 0;
 }
